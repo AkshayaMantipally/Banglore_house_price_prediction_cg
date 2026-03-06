@@ -5,6 +5,7 @@
 1) [GitHub](https://github.com)
 2) [StreamlitCloudAccount](https://streamlit.io/cloud)
 3) [VscodeIDE](https://code.visualstudio.com/download)
+4) [BangloreHousePricePrediction_livelink](https://banglorehousepricepredictioncg-njwanvewhepfcchod6pkyu.streamlit.app/)
 
 ### Project Setup
 create virtual environment
